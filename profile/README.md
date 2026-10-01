@@ -15,6 +15,7 @@ Every file tool runs entirely in your browser. Nothing you select is uploaded to
 - [JWT Decoder](https://tinytinytools.com/jwt-decoder) — read a token's header and payload without pasting it into someone else's site
 - [CSV to JSON](https://tinytinytools.com/csv-to-json) — with header detection and type inference
 - [Diff Checker](https://tinytinytools.com/diff-checker) — line-by-line comparison of two texts
+- [Tola to Gram Converter](https://tinytinytools.com/tola-to-gram-converter) — gold weight in tola, aana and lal, with the jeweller's breakdown
 
 There are also [guides](https://tinytinytools.com/guides): tests actually run, on a stated date, with the method published so you can repeat them.
 
